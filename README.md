@@ -2,8 +2,7 @@
 
 This is a change from online then change from local
 
-This was a change from local VS code
+There were changes from local VS code
 
 But we don't need changes
-
 Let's do some changes!
